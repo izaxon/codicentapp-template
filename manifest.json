@@ -1,0 +1,24 @@
+{
+  "name": "%VITE_INDEX_TITLE%",
+  "short_name": "%VITE_INDEX_TITLE%",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#%VITE_INDEX_THEME_COLOR%",
+  "description": "%VITE_INDEX_DESCRIPTION%",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "codicent_app",
+  "lang": "sv"
+}
