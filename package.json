@@ -15,7 +15,7 @@
     "@auth0/auth0-react": "^2.2.4",
     "@fluentui/react-components": "^9.55.1",
     "@fluentui/react-icons": "^2.0.261",
-    "codicent-app-sdk": "github:izaxon/codicent-app-sdk",
+    "codicent-app-sdk": "^0.3.31",
     "dotenv": "^16.4.7",
     "framer-motion": "^11.13.1",
     "i18next": "^23.0.0",
