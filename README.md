@@ -24,8 +24,8 @@ This template provides a foundation for developing Codicent applications using t
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/izaxon/codicent-app.git
-   cd codicent-app
+   git clone https://github.com/izaxon/codicentapp-template.git
+   cd codicentapp-template
    ```
 
 2. Install dependencies
